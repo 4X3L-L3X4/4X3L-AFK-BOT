@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "gassybowser",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Im_4X3L-K4LA.aternos.me",
-    "port": 38280,
-    "version": "",
+    "ip": "Im_4X3L-avqS.aternos.me",
+    "port": 36131,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
