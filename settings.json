@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Im_4X3L-K4LA.aternos.me:38280",
+    "ip": "Im_4X3L-K4LA.aternos.me",
     "port": 38280,
     "version": "",
     "try-creative": false
